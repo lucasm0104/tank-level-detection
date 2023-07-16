@@ -144,7 +144,7 @@ Alternatively, consult the GitHub documentation on [how to create a pull request
 
 ## License
 
-This project is under license. See [LICENSE](LICENSE.md) for more information.
+This project is under license. See [LICENSE](LICENSE) for more information.
 
 ## Back to the top
 
