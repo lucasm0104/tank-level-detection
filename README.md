@@ -142,7 +142,7 @@ If you want to contribute to this project, follow the steps below:
 
 Alternatively, consult the GitHub documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Difficulties and improvements
+## Difficulties and Improvements
 
 - Difficulties:
     - Adjusting the illumination incident on the tank to detect the level line;
@@ -156,6 +156,22 @@ Alternatively, consult the GitHub documentation on [how to create a pull request
 ## License
 
 This project is under license. See [LICENSE](LICENSE) for more information.
+
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/matheusslr">
+        <img src="https://github.com/matheusslr.png" width="100px">
+        <br>
+        <sub>
+          <b>Matheusslr</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Back to the top
 
