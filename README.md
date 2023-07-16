@@ -142,6 +142,9 @@ If you want to contribute to this project, follow the steps below:
 
 Alternatively, consult the GitHub documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## License
+
+This project is under license. See [LICENSE](LICENSE.md) for more information.
 
 ## Back to the top
 
