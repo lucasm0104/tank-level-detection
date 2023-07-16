@@ -142,6 +142,17 @@ If you want to contribute to this project, follow the steps below:
 
 Alternatively, consult the GitHub documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
+## Difficulties and improvements
+
+- Difficulties:
+    - Adjusting the illumination incident on the tank to detect the level line;
+    - Set parameters of the ``Canny`` and ``HoughLines`` functions;
+    - Positioning the camera statically, as the tank had no platform/structure to do so
+
+- What could be improved
+    - Setting the parameters of the ``Houghlines`` and ``Canny`` functions dynamically (even a trackbar would be useful);
+    - An edge detector to dynamically crop the areas of interest;
+
 ## License
 
 This project is under license. See [LICENSE](LICENSE) for more information.
