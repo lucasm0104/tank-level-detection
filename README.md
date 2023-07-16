@@ -1,4 +1,4 @@
-# Tank-level-detection
+# Tank-water-level-detector
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/matheusslr/tank-level-detection)
 ![GitHub language count](https://img.shields.io/github/languages/count/matheusslr/tank-level-detection)
@@ -175,4 +175,4 @@ This project is under license. See [LICENSE](LICENSE) for more information.
 
 ## Back to the top
 
-[⬆ Back to the top](#tank-level-detection)
+[⬆ Back to the top](#tank-water-level-detector)
