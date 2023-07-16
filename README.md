@@ -1,9 +1,9 @@
-# Tank-level-monitoring-with-computer-vision
+# Tank-level-detection
 
-![GitHub last commit](https://img.shields.io/github/last-commit/matheusslr/Tank-level-monitoring-with-computer-vision)
-![GitHub language count](https://img.shields.io/github/languages/count/matheusslr/Tank-level-monitoring-with-computer-vision)
-![Github repo size](https://img.shields.io/github/repo-size/matheusslr/Tank-level-monitoring-with-computer-vision)
-![Github stars](https://img.shields.io/github/stars/matheusslr/Tank-level-monitoring-with-computer-vision)
+![GitHub last commit](https://img.shields.io/github/last-commit/matheusslr/tank-level-detection)
+![GitHub language count](https://img.shields.io/github/languages/count/matheusslr/tank-level-detection)
+![Github repo size](https://img.shields.io/github/repo-size/matheusslr/tank-level-detection)
+![Github stars](https://img.shields.io/github/stars/matheusslr/tank-level-detection)
 
 ![level of water](/img/level.gif)
 
@@ -145,4 +145,4 @@ Alternatively, consult the GitHub documentation on [how to create a pull request
 
 ## Back to the top
 
-[⬆ Back to the top](#Tank-level-monitoring-with-computer-vision)
+[⬆ Back to the top](#tank-level-detection)
