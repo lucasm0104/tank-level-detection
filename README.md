@@ -26,7 +26,7 @@ Execute the following commands from the project root folder:
 ### Clone this repository
 
 ```bash
-git clone https://github.com/matheusslr/Tank-level-monitoring-with-computer-vision
+git clone https://github.com/matheusslr/tank-level-detection
 ```
 
 ### Install the dependencies
