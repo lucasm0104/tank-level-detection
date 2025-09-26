@@ -1,7 +1,8 @@
 import numpy as np
 import cv2
 
-cap = cv2.VideoCapture(0)
+print("Checking")
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 if not cap.isOpened():
     print("Cannot open camera")
     exit()
@@ -38,7 +39,7 @@ while True:
                         levels.append(level)
 
         if len(levels) > 0:
-            print(levels[0])
+            print(f"What a fucking water level is this:\n\t{levels[0]}")
         levels = None
 
     except:
